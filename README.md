@@ -1,11 +1,10 @@
-- 👋 Hi there!, I’m Daniela!
-Im a FullStack Developer Student.
--  I’m interested in Web and Game Development 📲🎮
-- 🌱 I’m currently learning Javascript, Java, POO, Angular, Data Base, Dev Ops, Ruby
+👋 Hi there!, I’m Daniela! 
+I'm a FullStack Developer Student
+📲🎮 I’m interested in Web, Mobile Apps and Games Development 📲🎮
 - 🔎 You can find me on the following social media platform or send me an email📩
 
 Linkedin: https://www.linkedin.com/in/daniela-gonz%C3%A1lez-b2aa8b224
-Mail: xgonzalezdaniela@gmail.com
+Get in touch: xgonzalezdaniela@gmail.com
 
 - 🧡 Thank you very much, and Welcome to you all! 🧡
 
