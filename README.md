@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @xdanielag
-- 👀 I’m interested in Web and Game Development 
-- 🌱 I’m currently learning Javascript, Java, Poo, Angular, Data Base, Dev Ops, Ruby, Gobstones
+- 👀 I’m interested in Web and Game Development 📲🎮
+- 🌱 I’m currently learning Javascript, Java, POO, Angular, Data Base, Dev Ops, Ruby, Gobstones
+- 🧡 Welcome to you all! 🧡
+
 
 
 <!---
