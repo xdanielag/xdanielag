@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @xdanielag
 - 👀 I’m interested in Web and Game Development 📲🎮
 - 🌱 I’m currently learning Javascript, Java, POO, Angular, Data Base, Dev Ops, Ruby, Gobstones
-- 🧡 Welcome to you all! 🧡
+- 🔎 You can find me on the following social media platform or send me an mail
+
+Linkedin: https://www.linkedin.com/in/daniela-gonz%C3%A1lez-b2aa8b224
+📧 xgonzalezdaniela@gmail.com
+
+- 🧡 Thank you very much and Welcome to you all! 🧡
 
 
 
