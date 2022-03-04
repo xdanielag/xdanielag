@@ -4,7 +4,7 @@ I'm a FullStack Developer Student
 - 🔎 You can find me on the following social media platform or send me an email📩
 
 Linkedin: https://www.linkedin.com/in/daniela-gonz%C3%A1lez-b2aa8b224
-Get in touch: xgonzalezdaniela@gmail.com
+
 
 - 🧡 Thank you very much, and Welcome to you all! 🧡
 
